@@ -38,13 +38,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DissolveAmount: 0.47
-    - _EdgeWeight: 0.1
+    - _DissolveAmount: 0.202
+    - _EdgeWeight: -0.3
     - _NoiseSize: 25
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _EdgeColor: {r: 2, g: 2, b: 2, a: 1}
+    - _EdgeColor: {r: 1.4980394, g: 1.4980394, b: 1.4980394, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &6762476831423587209
